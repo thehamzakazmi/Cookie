@@ -1,0 +1,2 @@
+# Cookie
+Web cookies
